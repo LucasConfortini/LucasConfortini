@@ -1,12 +1,17 @@
 ## Olá, eu sou Lucas Confortini! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻 ... </p>
 <p> - 👨‍🎓 Estudante em Análise e Desenvolvimento de Sistemas</p>
 <p> - 🎯 Interesse: Java, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
-
-  
+<hr>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasconfortini&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
 </div>
 
 ## Minhas skills :nerd_face:
@@ -60,7 +65,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="www.linkedin.com/in/lucas-confortinibatista">
+    <a href="https://linkedin.com/in/lucas-confortinibatista">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
 </p>
