@@ -1,8 +1,8 @@
 ## Olá, eu sou Lucas Confortini! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### Sobre mim
 <div style="display: inline_block"  >
-<p> - 👨‍💻 ... </p>
-<p> - 👨‍🎓 Estudante em Análise e Desenvolvimento de Sistemas</p>
+<p> - 👨‍💻 Consultor TI e MBA Business Inteligence </p>
+<p> - 👨‍🎓 Graduação em Análise e Desenvolvimento de Sistemas</p>
 <p> - 🎯 Interesse: Java, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 <hr>
 <p align="center">
