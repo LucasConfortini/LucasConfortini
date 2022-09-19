@@ -3,7 +3,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Consultor TI e MBA Business Inteligence </p>
 <p> - 👨‍🎓 Graduação em Análise e Desenvolvimento de Sistemas</p>
-<p> - 🎯 Interesse: Java, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
+<p> - 🎯 Interesse: Python, Kafka, Nifi, API , SAP, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
