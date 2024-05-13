@@ -1,7 +1,7 @@
 ## Olá, eu sou Lucas Confortini! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### Sobre mim
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Consultor TI e MBA Business Inteligence </p>
+<p> - 👨‍💻 Consultor TI e Engenheiro de Software </p>
 <p> - 👨‍🎓 Graduação em Análise e Desenvolvimento de Sistemas</p>
 <p> - 🎯 Interesse: Python, Kafka, Nifi, API , SAP, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 <hr>
