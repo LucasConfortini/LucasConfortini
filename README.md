@@ -4,7 +4,7 @@
 <p> - 👨‍💻 Consultor TI e Engenheiro de Software </p>
 <p> - 👨‍🎓 Graduação em Análise e Desenvolvimento de Sistemas</p>
 <p> - 👨‍🎓 Mestrado em Ciência da Computação</p>
-<p> - 🎯 Interesse: Python, Kafka, Nifi, API , SAP, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
+<p> - 🎯 Interesse: .NET, C, Python, Kafka, Nifi, API , SAP, SQL Server, HANA, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
